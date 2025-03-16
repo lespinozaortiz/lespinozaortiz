@@ -2,11 +2,12 @@
 
 # Hola, soy Leonardo Espinoza Ortiz 👋
 
-Soy un desarrollador que le gusta la tecnología y el aprendizaje continuo. Soy egresado en Ingeniería de Ejecución en Computación e Informática de la Universidad de Santiago de Chile. Aquí hay un poco más sobre mí:
+Soy desarrollador y entusiasta de la tecnología con interés en el aprendizaje continuo. Egresé de Ingeniería de Ejecución en Computación e Informática de la Universidad de Santiago de Chile. 
+Aquí hay un poco más sobre mí:
 
-- 🚀 Siempre busco aprender nuevas tecnologías y mejorar mis habilidades
-- 📚 Me apasiona el mundo de los datos, la ciencia de datos.
-- 🌱 Me encuentro en constante aprendizaje.
+- 🚀 Me gusta explorar nuevas tecnologías y mejorar mis habilidades
+- 📚 Me apasiona el mundo de los datos y la ciencia de datos.
+- 🌱 Siempre estoy en busca de nuevos conocimientos.
 
 ## Habilidades
 
